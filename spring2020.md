@@ -50,4 +50,4 @@ inspired by rust, but also includes aspects of java, scala, and kotlin.
     * [ ] Possibly begin bootstrapping wright compiler.
     * [ ] Implement optimizations for first target.
     * [ ] Implement second target.
-    * [ ] Release Wri
+    * [ ] Release Wright 1.1.0.
